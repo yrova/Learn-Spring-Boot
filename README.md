@@ -1,3 +1,3 @@
-# Learn-Spring-Boot
+# simple-spring-todo-app
 
-Project integrating Spring and react. 
+Simple todo app integrating Spring and react. 
